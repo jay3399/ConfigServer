@@ -8,9 +8,9 @@ my:
   name: adsadadasdzz
   env: dev 
 
-# oauth:
-#   jwt:
-#     secret:
-#       6B64DCA4E72F58EDIKU9AAB215FE7ASDACZWQEQWEQEQWE
-#   oauth2:
-#       authorizedRedirectUri: http://localhost:8080/oauth2/redirect
+oauth:
+  jwt:
+    secret:
+      6B64DCA4E72F58EDIKU9AAB215FE7ASDACZWQEQWEQEQWE
+  oauth2:
+      authorizedRedirectUri: http://localhost:8080/oauth2/redirect
