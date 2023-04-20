@@ -6,7 +6,7 @@
 my:
   age: 31 
   name: adsadadasdzz
-  my.env: dev 
+  env: dev 
 
 # oauth:
 #   jwt:
