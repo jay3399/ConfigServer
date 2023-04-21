@@ -2,6 +2,3 @@ eureka:
   client:
     register-with-eureka: true
     fetch-registry: false
-server:
-  port: 8080
-      
