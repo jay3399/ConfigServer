@@ -44,12 +44,7 @@
               - email
               - profile
             redirect-uri: http://localhost:8080/oauth2/callback/google
-            
-            
-my:
-  age: 31 
-  name: changed
-  env: dev 
+          
   
 oauth:
   jwt:
